@@ -1,0 +1,15 @@
+{
+  "name": "react-animate-plus-bower",
+  "version": "0.0.0",
+  "authors": [
+    "Jeffery Zhao <8850088600@163.com>"
+  ],
+  "description": "React ReactCSSTransitionGroup css an implementation specification based ng-animate Animation Library",
+  "main": "styles/animate.css",
+  "keywords": [
+    "aniamte",
+    "react",
+    "react-animate"
+  ],
+  "license": "MIT"
+}
